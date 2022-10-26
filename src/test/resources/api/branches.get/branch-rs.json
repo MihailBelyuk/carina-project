@@ -1,0 +1,100 @@
+{
+  "name": "db-connectivity",
+  "commit": {
+    "sha": "852bd3bcd802f2534124e2bd3dd271d4b694701b",
+    "node_id": "C_kwDOIFYW39oAKDg1MmJkM2JjZDgwMmYyNTM0MTI0ZTJiZDNkZDI3MWQ0YjY5NDcwMWI",
+    "commit": {
+      "author": {
+        "name": "mBelyuk",
+        "email": "74051706+MihailBelyuk@users.noreply.github.com",
+        "date": "2022-10-19T07:37:20Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-10-19T07:37:20Z"
+      },
+      "message": "Delete logs directory",
+      "tree": {
+        "sha": "87c7ed7d941babeaebc790041ac2560348d2f679",
+        "url": "https://api.github.com/repos/MihailBelyuk/navigator/git/trees/87c7ed7d941babeaebc790041ac2560348d2f679"
+      },
+      "url": "https://api.github.com/repos/MihailBelyuk/navigator/git/commits/852bd3bcd802f2534124e2bd3dd271d4b694701b",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjT6kwCRBK7hj4Ov3rIwAAf1UIABTKF/E3uCy9hUPL5aTB4kdo\nB7u7HgkroS3BaFPColO9oTvuZCpZOuzuksKBRGDT3JXD2WGiwBs3W2cUlThURqdG\nCr1Gu7tlYx67IXoOZSZ/9roa9RSC2Dj27d8XU4lhnoYF+dVbLetRL2t9zFU9sPfU\nMPz4TUwiW222g0uDZkrvnUiRklFPFD2RDyjhAkNSHxiIC/6ldAQJ2rtxli5OUcM2\nR2tXZuJ10NT4cRtske5cRbCvQu0VmBgOp8Z6dyf6yEbGBd2o+ZI2k+H/GcPfsk11\nsuKSn90snO+Grtf2YD3wsseEY4R8AHI5bQEET4XiBeGFVL1sN8LNgv80G3TwZmg=\n=3AvS\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 87c7ed7d941babeaebc790041ac2560348d2f679\nparent b3587e69b6fc9a5fe9d531b63819943af67602e7\nauthor mBelyuk <74051706+MihailBelyuk@users.noreply.github.com> 1666165040 +0300\ncommitter GitHub <noreply@github.com> 1666165040 +0300\n\nDelete logs directory"
+      }
+    },
+    "url": "https://api.github.com/repos/MihailBelyuk/navigator/commits/852bd3bcd802f2534124e2bd3dd271d4b694701b",
+    "html_url": "https://github.com/MihailBelyuk/navigator/commit/852bd3bcd802f2534124e2bd3dd271d4b694701b",
+    "comments_url": "https://api.github.com/repos/MihailBelyuk/navigator/commits/852bd3bcd802f2534124e2bd3dd271d4b694701b/comments",
+    "author": {
+      "login": "MihailBelyuk",
+      "id": 74051706,
+      "node_id": "MDQ6VXNlcjc0MDUxNzA2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74051706?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/MihailBelyuk",
+      "html_url": "https://github.com/MihailBelyuk",
+      "followers_url": "https://api.github.com/users/MihailBelyuk/followers",
+      "following_url": "https://api.github.com/users/MihailBelyuk/following{/other_user}",
+      "gists_url": "https://api.github.com/users/MihailBelyuk/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/MihailBelyuk/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/MihailBelyuk/subscriptions",
+      "organizations_url": "https://api.github.com/users/MihailBelyuk/orgs",
+      "repos_url": "https://api.github.com/users/MihailBelyuk/repos",
+      "events_url": "https://api.github.com/users/MihailBelyuk/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/MihailBelyuk/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b3587e69b6fc9a5fe9d531b63819943af67602e7",
+        "url": "https://api.github.com/repos/MihailBelyuk/navigator/commits/b3587e69b6fc9a5fe9d531b63819943af67602e7",
+        "html_url": "https://github.com/MihailBelyuk/navigator/commit/b3587e69b6fc9a5fe9d531b63819943af67602e7"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/MihailBelyuk/navigator/branches/db-connectivity",
+    "html": "https://github.com/MihailBelyuk/navigator/tree/db-connectivity"
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ],
+      "checks": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/MihailBelyuk/navigator/branches/db-connectivity/protection"
+}

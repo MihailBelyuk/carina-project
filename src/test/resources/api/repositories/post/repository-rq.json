@@ -1,0 +1,7 @@
+{
+  "name": "${name}",
+  "description": "${description}",
+  "homepage": "https://github.com",
+  "private": false,
+  "is_template": true
+}
