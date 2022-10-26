@@ -10,8 +10,6 @@ import java.util.Objects;
 
 public class UserTest {
 
-
-
     @Test
     public void retrieveMyProfileDataOldMethodTest() {
         GetUserMethodOld getUserMethodOld = new GetUserMethodOld("MihailBelyuk");
